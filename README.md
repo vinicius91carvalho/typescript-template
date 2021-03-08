@@ -12,3 +12,4 @@
 * Travis
 * Coveralls
 * Faker
+* Ts-node (To use REPL)

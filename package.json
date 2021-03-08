@@ -1,7 +1,7 @@
 {
   "name": "typescript-template",
-  "version": "1.0.0",
-  "description": "Hub B2B API",
+  "version": "1.1.0",
+  "description": "Template for my TypeScript projects",
   "scripts": {
     "postinstall": "husky install && npm config set save-exact=true",
     "start": "ts-node",
